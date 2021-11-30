@@ -22,7 +22,7 @@ const ProjectContainer = () => {
           title: "My Portfolio",
           desc:
             "Its my first portfolio done from scratch using react js",
-            link: "www.google.com",
+            link: "https://github.com/sudhan6/Portfolio-1",
         },
         {
             img: img3,
