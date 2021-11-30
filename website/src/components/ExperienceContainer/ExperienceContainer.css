@@ -1,0 +1,28 @@
+.expcontainer{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0;
+}
+
+.expcontainer >h1 {
+    padding-bottom: 20px;
+    margin-top: 100px;
+
+}
+
+.expcontainer__info {
+    background-image: url("../../assets/exp.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 280px;
+    z-index: 1000px;
+    width: 80vw;
+    box-shadow: insert 0 0 0 2000px rgba(0,0,0,0.9) ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
